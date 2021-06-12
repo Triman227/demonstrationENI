@@ -1,5 +1,5 @@
 function hello(){
-	consol.log("Bonjour tout le monde");
+	consol.log("Bonjour !");
 }
 
 hello();
